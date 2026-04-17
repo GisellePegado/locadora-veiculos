@@ -37,7 +37,7 @@ Os scripts estão organizados na pasta [`sql/`](sql/) por tipo de instrução:
 | Arquivo                | Tipo | Descrição                                                                   |
 | ---------------------- | ---- | --------------------------------------------------------------------------- |
 | [`ddl.md`](sql/ddl.md) | DDL  | Criação do banco de dados e de todas as tabelas com PKs e FKs               |
-| [`dml.md`](sql/dml.md) | DML  | Inserção de 10 clientes, 10 veículos, 20 locações e demais dados de exemplo |
+| [`dml.md`](sql/dml.md) | DML  | Inserção de 10 clientes, 10 veículos, 20 locações e demais dados de testes  |
 | [`dql.md`](sql/dql.md) | DQL  | 4 consultas representativas das operações da locadora                       |
 
 ### Consultas implementadas
